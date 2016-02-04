@@ -1,0 +1,5 @@
+*.com
+*.exe
+*.dll
+.settings
+*.class
